@@ -219,7 +219,7 @@ import {
   FaSignOutAlt,
 } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
-import logo from "./photos/digitallogo.png";
+import logo from "./photos/DigitalLogo.png";
 import { supabase } from "../lib/supabase";
 
 const Navbar = () => {
